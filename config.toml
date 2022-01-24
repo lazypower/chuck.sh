@@ -1,4 +1,4 @@
-baseURL = 'http://chuck.sh/'
+baseURL = 'https://chuck.sh/'
 languageCode = 'en-us'
 title = 'Chuck.sh'
 theme = 'paper'
