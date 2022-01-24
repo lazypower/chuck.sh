@@ -1,3 +1,8 @@
-baseURL = 'http://example.org/'
+baseURL = 'http://chuck.sh/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'Chuck.sh'
+theme = 'paper'
+
+[params]
+github = 'lazypower'
+twitter = 'lazypower'
